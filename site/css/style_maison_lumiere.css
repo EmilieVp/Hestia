@@ -1,0 +1,47 @@
+/*
+	BOUTON NOM DE LA SALLE
+*/
+
+.button {
+  font-size: 250%;
+  padding: 10px;
+  font-family: 'Oswald', sans-serif;
+  color: #fff;
+  border: 2px solid #7BD272;
+  border-radius: 20px/50px;
+  text-decoration: none;
+  cursor: pointer;
+  background: #808080;
+  transition: all 0.3s ease-out;
+}
+.button:hover {
+  background: #7BD272;
+}
+
+
+#nom {
+	font-size: 200%;
+	color : #FFF;
+}
+
+
+.milieu {
+	display: block;
+	width: 100%;
+}
+
+.map_image{
+	display : block;
+	float: left;
+	margin-left:12%;
+}
+
+.droite {
+	display: block;
+	margin-left : 53%;
+	margin-right:15%;
+	background : rgba(221,219,219, 0.3);
+	height : 200%;
+	border-radius: 5px;
+
+}
